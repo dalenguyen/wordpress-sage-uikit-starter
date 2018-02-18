@@ -1,0 +1,24 @@
+{
+  "name": "sage",
+  "homepage": "https://roots.io/sage/",
+  "authors": [
+    "Ben Word <ben@benword.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+	"uikit": "3.0.0-beta.35"
+  },
+  "overrides": {
+      "uikit": {
+        "main": [
+          "./dist/js/uikit.min.js",
+          "./dist/js/uikit-icons.min.js",          
+          "./src/scss/variables-theme.scss",
+          "./src/scss/mixins-theme.scss",
+          "./src/scss/uikit-theme.scss",
+          "./src/scss/uikit.scss"
+        ]
+      }
+  }
+}
