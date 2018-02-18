@@ -1,6 +1,7 @@
 # WordPress + Sage theme 8.5.3 + UiKit 2 Framework
 
-This is a starter respository that boostraps your development process with preloaded Sage theme and Uikit Framework 
+This is a starter respository that boostraps your development process with preloaded Sage theme and Uikit Framework. This wordpress boilerplate is also preloaded [CMB2 plugin](https://github.com/CMB2/CMB2https://github.com/CMB2/CMB2) for creating metaboxes, custom post type...  
+
 
 # Getting Started 
 
